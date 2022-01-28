@@ -111,6 +111,6 @@ You can click the Preview link to take a look at your changes.
   </a> 
        -->
 </p>
-<h5 align="center">Seu @dvppeixoto</h5>
+<h5 align="center">@dvppeixoto</h5>
 </details>
 

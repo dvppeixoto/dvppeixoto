@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Diego do Vale Peixoto.</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Diego do Vale Peixoto</h1></img>
 
 <p align="center">
   <a href="https://github.com/dvppeixoto">
@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p>
 
-<h3 align="center">Trabalhando em:</h3>
+<h3 align="center">Working at:</h3>
 
 <p align="center">
   <a href="https://github.com/dvppeixoto/dvppeixoto">
@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">About:</h3>
 
 <p align="center">
   <a href="https://instagram.com/dvppeixoto/">

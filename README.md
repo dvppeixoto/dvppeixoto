@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a> -->
-  <a href="https://www.linkedin.com/in/dvppeixoto/">
+  <a href="https://www.linkedin.com/in/dvppeixoto/" _blank>
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"

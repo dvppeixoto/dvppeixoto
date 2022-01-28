@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">About:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/dvppeixoto/">
+  <a href="https://instagram.com/dvppeixoto/" target="_blank">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a> -->
-  <a href="https://www.linkedin.com/in/dvppeixoto/" _blank>
+  <a href="https://www.linkedin.com/in/dvppeixoto/" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"

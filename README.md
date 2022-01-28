@@ -9,7 +9,7 @@ dvppeixoto/dvppeixoto is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
   <p align="center">
-   <a href="https://code.visualstudio.com/">
+   <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
